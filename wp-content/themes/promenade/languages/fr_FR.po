@@ -1,0 +1,588 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Promenade 1.4.2\n"
+"Report-Msgid-Bugs-To: http://audiotheme.com/support/\n"
+"POT-Creation-Date: 2015-02-07 18:23:59+00:00\n"
+"PO-Revision-Date: Sat Mar 21 2015 14:49:20 GMT+0100 (Romance Standard Time)\n"
+"Last-Translator: webmaster <webmaster@echoduoans.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: French (France)\n"
+"Plural-Forms: nplurals=2; plural=n > 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Loco-Target-Locale: fr_FR"
+
+#: 404.php:15
+msgid "Nothing was found at this location. Maybe try searching below?"
+msgstr ""
+"Aucun résultat n'a été trouvé à cet endroit. Essayez peut-être de chercher "
+"plus bas ?"
+
+#: audiotheme/parts/gig-card.php:19
+msgid "View Details"
+msgstr "Voir les détails"
+
+#: audiotheme/parts/gig-meta.php:33
+msgid "Buy Tickets"
+msgstr "Acheter les places"
+
+#: audiotheme/parts/gig-subscribe-links.php:15
+msgid "Google Calendar"
+msgstr "Google Calendar"
+
+#: audiotheme/parts/gig-subscribe-links.php:20
+msgid "iCal"
+msgstr "iCal"
+
+#: audiotheme/parts/no-results-gig.php:25
+msgid "There currently aren't any scheduled shows. Check back soon!"
+msgstr ""
+"Aucun nouveau concert n'est programmé pour le moment. N'hésitez pas à "
+"consulter à nouveau bientôt !"
+
+#: audiotheme/parts/no-results-gig.php:46
+msgid "Recent Shows"
+msgstr "Concerts récents"
+
+#: audiotheme/parts/record-details.php:23
+msgid "Artist"
+msgstr "Artiste"
+
+#: audiotheme/parts/record-details.php:30
+#: audiotheme/widgets/home-widgets_recent-posts.php:79
+msgid "Released"
+msgstr "Mis en vente"
+
+#: audiotheme/parts/record-details.php:37
+msgid "Genre"
+msgstr "Genre"
+
+#: audiotheme/parts/record-meta-track.php:30
+msgid "Purchase"
+msgstr "Achat"
+
+#: audiotheme/parts/record-meta-track.php:44
+#: audiotheme/parts/record-tracklist.php:34
+msgid "Download"
+msgstr "Télécharger"
+
+#: audiotheme/single-gig.php:52
+msgid "Add To Calendar"
+msgstr "Ajouter au calendrier"
+
+#: audiotheme/single-gig.php:72
+msgid "Venue Details"
+msgstr "Détails du lieu"
+
+#: audiotheme/widgets/home-widgets_recent-posts.php:20
+msgid "Feed"
+msgstr "Flux"
+
+#: audiotheme/widgets/upcoming-gigs.php:26
+msgid "View All Gigs"
+msgstr "Afficher tous les concerts"
+
+#: audiotheme/widgets/upcoming-gigs.php:34
+msgid "No gigs are currently scheduled."
+msgstr "Aucun concert n'est programmé pour le moment."
+
+#: comments.php:34
+#, c-format
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s Commentaire"
+msgstr[1] "%1$s Commentaires"
+
+#: comments.php:41
+msgid "Leave a Comment"
+msgstr "Laisser un commentaire"
+
+#: comments.php:48
+msgid "Pages"
+msgstr "Pages"
+
+#: comments.php:66
+msgid "Comment navigation"
+msgstr "Navigation dans les commentaires"
+
+#: comments.php:81
+msgid "Comments are closed."
+msgstr "Commentaires non autorisés."
+
+#: functions.php:101
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: functions.php:102
+msgid "Social Menu"
+msgstr "Menu des réseaux sociaux"
+
+#: functions.php:119
+msgid "Main Sidebar"
+msgstr "Zone latérale principale des modules"
+
+#: functions.php:120
+msgid "The default sidebar on all posts and pages."
+msgstr ""
+"La zone des modules latéral par défaut sur toutes les publications et les "
+"pages."
+
+#: functions.php:129
+msgid "Footer"
+msgstr "Pied de page"
+
+#: functions.php:130
+msgid "Widgets that appear at the bottom of every page."
+msgstr "Modules qui apparaissent au pied de chaque page."
+
+#: functions.php:164
+msgid "Next Track"
+msgstr "Piste suivante"
+
+#: functions.php:165
+msgid "Previous Track"
+msgstr "Piste précédente"
+
+#: functions.php:166
+msgid "Toggle Playlist"
+msgstr "Affichage/masquage de la liste de lecture"
+
+#: header.php:19
+msgid "Skip to content"
+msgstr "Passer au contenu"
+
+#: header.php:27
+msgid "Menu"
+msgstr "Menu"
+
+#: includes/customizer.php:26
+msgid "Theme"
+msgstr "Thème"
+
+#: includes/hooks.php:101 includes/hooks.php:102
+msgid "Name"
+msgstr "Nom"
+
+#: includes/hooks.php:103
+msgid "required"
+msgstr "obligatoire"
+
+#: includes/hooks.php:106 includes/hooks.php:107
+msgid "Email"
+msgstr "Email"
+
+#: includes/hooks.php:108
+msgid "required (not published)"
+msgstr "obligatoire (non publié)"
+
+#: includes/hooks.php:111 includes/hooks.php:112
+msgid "Website"
+msgstr "Site Web"
+
+#: includes/hooks.php:114
+msgid "Comment"
+msgstr "Commentaire"
+
+#: includes/hooks.php:115
+msgid "Write a comment..."
+msgstr "Ecrire un commentaire..."
+
+#: includes/hooks.php:120
+msgid "Submit"
+msgstr "Envoyer"
+
+#: includes/plugins/audiotheme.php:24
+msgid "Gigs Menu"
+msgstr "Menu des concerts"
+
+#: includes/plugins/audiotheme.php:25
+msgid "Records Menu"
+msgstr "Menu des albums"
+
+#: includes/plugins/cue.php:18
+msgid "Homepage Player"
+msgstr "Lecture de la page d'accueil"
+
+#. translators: used between list items, there is a space after the comma.
+#: includes/template-tags.php:85 includes/template-tags.php:88
+msgid ", "
+msgstr ", "
+
+#: includes/template-tags.php:93
+#, c-format
+msgid "Tagged as %2$s."
+msgstr "Marqué comme %2$s."
+
+#: includes/template-tags.php:100
+#, c-format
+msgid "Posted in %1$s and tagged as %2$s."
+msgstr "Publié dans %1$s et marqué comme %2$s."
+
+#: includes/template-tags.php:102
+#, c-format
+msgid "Posted in %1$s."
+msgstr "Publié dans %1$s."
+
+#. translators: 1: byline prefix, 2: post author link
+#: includes/template-tags.php:123
+#, c-format
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: includes/template-tags.php:246
+msgid "Pages:"
+msgstr "Pages :"
+
+#: includes/template-tags.php:501
+#, c-format
+msgid "Author: %s"
+msgstr "Auteur : %s"
+
+#: includes/template-tags.php:503
+#, c-format
+msgid "Day: %s"
+msgstr "Jour : %s"
+
+#: includes/template-tags.php:505
+#, c-format
+msgid "Month: %s"
+msgstr "Mois : %s"
+
+#: includes/template-tags.php:507
+#, c-format
+msgid "Year: %s"
+msgstr "Année : %s"
+
+#: includes/template-tags.php:509
+msgid "Archives"
+msgstr "Archives"
+
+#: includes/template-tags.php:512
+#, c-format
+msgid "Search Results for: %s"
+msgstr "Chercher les résultats pour : %s"
+
+#: includes/template-tags.php:514
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Page non trouvée."
+
+#: includes/template-tags.php:725
+msgid "Ready to create your first menu?"
+msgstr "Prêt à créer votre premier menu ?"
+
+#: includes/template-tags.php:730
+msgid "Get started here"
+msgstr "Cliquer pour commencer"
+
+#: includes/template-tags.php:770
+#, c-format
+msgid "%1$s WordPress theme by %2$s."
+msgstr "%1$s thème WordPress par %2$s."
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-customize-control-
+#: featuredcontent.php:46
+msgid "An error has occurred. Please reload the page and try again."
+msgstr "Une erreur est survenue. Recharger la page et essayer à nouveau."
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-customize-control-playlist.php:
+#: 64
+msgid "Edit Playlist"
+msgstr "Editer la liste de lecture"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-featuredcontent.php:182
+msgid "Featured Content"
+msgstr "Contenu sélectionné"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-featuredcontent.php:183
+#, c-format
+msgid "Your theme supports up to %d posts in its featured content area."
+msgstr ""
+"Votre thème peut gérer jusqu'à %d publications dans cette zone de contenu "
+"sélectionnée."
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-featuredcontent.php:228
+msgid "Add Posts"
+msgstr "Ajouter des publications"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-featuredcontent.php:236
+msgid "Delete"
+msgstr "Supprimer"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-featuredcontent.php:237
+msgid "Close"
+msgstr "Fermer"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-featuredcontent.php:244
+msgid "Find Posts"
+msgstr "Trouver des publications"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-featuredcontent.php:252
+msgid "Search"
+msgstr "Chercher"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-featuredcontent.php:299
+msgid "No items found."
+msgstr "Aucun élément trouvé."
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-featuredcontent.php:332
+msgid "Title"
+msgstr "Titre"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-featuredcontent.php:333
+msgid "Type"
+msgstr "Type"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-featuredcontent.php:334
+msgid "Date"
+msgstr "Date"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-featuredcontent.php:335
+msgid "Status"
+msgstr "Etat"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-featuredcontent.php:339
+msgid "(no title)"
+msgstr "(absence de titre)"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-featuredcontent.php:345
+msgid "Published"
+msgstr "Publié"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-featuredcontent.php:348
+msgid "Scheduled"
+msgstr "Programmé"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-featuredcontent.php:351
+msgid "Pending Review"
+msgstr "En attente de révision"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-featuredcontent.php:354
+msgid "Draft"
+msgstr "Brouillon"
+
+#. translators: date format in table columns, see http:php.net/date
+#: includes/vendor/cedaro-theme/class-cedaro-theme-featuredcontent.php:362
+msgid "Y/m/d"
+msgstr "Y/m/d"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-sitelogo-wporg.php:164
+msgid "Display Header Text"
+msgstr "Afficher l'entête"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-sitelogo-wporg.php:193
+msgid "Site Logo"
+msgstr "Logo du site Web"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme-widgetwhitelist.php:210
+msgid "This widget isn't configured for this widget area."
+msgstr "Ce module n'est pas disponible pour cette zone."
+
+#: includes/vendor/class-audiotheme-themenotice.php:27
+msgid ""
+"The AudioTheme plugin should be installed and activated for this theme to "
+"display properly."
+msgstr ""
+"Le plugin AudioTheme doit être installé et activé pour le bon fonctionnement "
+"de ce thème."
+
+#: includes/vendor/class-audiotheme-themenotice.php:28 includes/wporg.php:115
+msgid "Activate now"
+msgstr "Activer maintenant"
+
+#: includes/vendor/class-audiotheme-themenotice.php:29 includes/wporg.php:116
+msgid "Find out more"
+msgstr "Trouver plus d'éléments"
+
+#: includes/vendor/class-audiotheme-themenotice.php:30 includes/wporg.php:117
+msgid "Dismiss"
+msgstr "Ne pas accepter"
+
+#: includes/wporg.php:30
+msgid "Home"
+msgstr "Accueil"
+
+#: includes/wporg.php:31
+msgid "Widgets that appear on the homepage."
+msgstr "Module qui apparaissent sur la page d'accueil."
+
+#: includes/wporg.php:86
+msgid "Enable Promenade Related Posts"
+msgstr "Autoriser les publications connexes pour Promenade"
+
+#: includes/wporg.php:114
+msgid ""
+"The AudioTheme Framework should be installed and activated for this theme to "
+"display properly."
+msgstr ""
+"L'environnement AudioTheme doit être installé et activé pour le bon "
+"fonctionnement de ce thème."
+
+#: templates/parts/block-grid.php:27 templates/parts/content-page.php:23
+#: templates/parts/content-single.php:36 templates/parts/content.php:66
+msgid "Edit"
+msgstr "Editer"
+
+#: templates/parts/content.php:44
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continuer à lire <span class=\"meta-nav\">&rarr;</span>"
+
+#: templates/parts/content.php:62
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+#: templates/parts/content.php:62
+msgid "1 Comment"
+msgstr "1 commentaire"
+
+#: templates/parts/content.php:62
+msgid "% Comments"
+msgstr "% commentaires"
+
+#: templates/parts/no-results.php:14
+msgid "Nothing Found"
+msgstr "Aucun résultat"
+
+#: templates/parts/no-results.php:22
+#, c-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Prêt à publier votre première publication ? <a href=\"%1$s\">Cliquer pour "
+"commencer</a>."
+
+#: templates/parts/no-results.php:30
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Désolé, aucun résultat ne correspond à votre recherche. Veuillez essayer à "
+"nouveau avec des mots-clés différents."
+
+#: templates/parts/no-results.php:36
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Il semble qu&rsquo;aucun résultat ne corresponde &agrave; votre recherche."
+
+#: templates/parts/player.php:26
+msgid "Playlist"
+msgstr "Liste de lecture"
+
+#. Theme Name of the plugin/theme
+msgid "Promenade"
+msgstr "Promenade"
+
+#. Theme URI of the plugin/theme
+msgid "http://audiotheme.com/view/promenade/"
+msgstr "http://audiotheme.com/view/promenade/"
+
+#. Description of the plugin/theme
+msgid ""
+"Featuring a widgetized homepage, Promenade's clean layout and minimalistic "
+"design is perfect to capture your audience's attention and allow them to "
+"easily navigate your content."
+msgstr ""
+"Pour sa page principale acceptant des modules, l'agencement simplifié et le "
+"design minimal de Promenade est parfaitement adapté pour retenir l'attention "
+"de vos visiteurs et leur permet de naviguer aisément de contenu en contenu."
+
+#. Author of the plugin/theme
+msgid "AudioTheme"
+msgstr "AudioTheme"
+
+#. Author URI of the plugin/theme
+msgid "http://audiotheme.com/"
+msgstr "http://audiotheme.com/"
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr "Page entière"
+
+#: audiotheme/parts/gig-card.php:19
+msgctxt "gig permalink"
+msgid "+"
+msgstr "+"
+
+#: audiotheme/parts/no-results-gig.php:17
+#, c-format
+msgctxt "post type label; add post type link"
+msgid "Ready to publish your next %1$s? <a href=\"%2$s\">Get started here</a>."
+msgstr ""
+"Prêt à publier votre prochain %1$s ? <a href=\"%2$s\">Cliquer pour "
+"commencer</a>."
+
+#: audiotheme/parts/no-results.php:25
+#, c-format
+msgctxt "post type label; add post type link"
+msgid "Ready to publish your first %1$s? <a href=\"%2$s\">Get started here</a>."
+msgstr ""
+"Prêt à publier votre premier %1$s ? <a href=\"%2$s\">Cliquer pour "
+"commencer</a>."
+
+#: audiotheme/parts/no-results.php:36
+#, c-format
+msgctxt "post type label"
+msgid "There currently aren't any %s available."
+msgstr "Il n'y a aucun %s disponible pour le moment."
+
+#. translators: If there are characters in your language that are not
+#. supported by Lora, translate this to 'off'. Do not translate into your
+#. own language.
+#: functions.php:220
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not
+#. supported by Raleway, translate this to 'off'. Do not translate into your
+#. own language.
+#: functions.php:227
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr "on"
+
+#: includes/template-tags.php:124
+msgctxt "author byline prefix"
+msgid "By"
+msgstr "Par"
+
+#: includes/template-tags.php:171
+#, c-format
+msgctxt "previous post link"
+msgid "Previous %s"
+msgstr "Précédent %s"
+
+#: includes/template-tags.php:176
+msgctxt "post type archive link"
+msgid "Back"
+msgstr "Retour"
+
+#: includes/template-tags.php:180
+#, c-format
+msgctxt "next post link"
+msgid "Next %s"
+msgstr "Suivant %s"
+
+#: includes/vendor/cedaro-theme/class-cedaro-theme.php:220
+#, c-format
+msgctxt "suffix for paged archive titles"
+msgid "Page %s"
+msgstr "Page %s"
+
+#: templates/parts/related-posts.php:16
+#, c-format
+msgctxt "related posts title"
+msgid "More %s"
+msgstr "Plus %"

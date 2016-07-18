@@ -1,0 +1,175 @@
+/**
+ * Jetpack (plugin)
+ * @link https://jetpack.me/
+ * -----------------------------------------------------------------------------
+ */
+
+
+/* Infinite Scroll
+------------------------------------------------------------------------------*/
+
+.infinite-scroll .navigation-paging,
+.infinite-scroll.neverending .site-footer {
+	display: none;
+}
+
+.infinity-end.neverending .site-footer {
+	display: block;
+}
+
+#infinite-handle span {
+	background-color: rgba(0, 0, 0, 0.88);
+	border: 1px solid rgba(0, 0, 0, 0.88);
+	color: #fff;
+	display: inline-block;
+	display: block;
+	font-family: "Raleway", sans-serif;
+	font-size: 13px;
+	font-size: 1.3rem;
+	font-weight: 600;
+	letter-spacing: 0.2em;
+	line-height: 1.61538462;
+	padding: 0.61538462em 1.23076923em;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+#infinite-handle span:hover,
+#infinite-handle span:focus {
+	background: rgba(0, 0, 0, 0.33);
+	border-color: transparent;
+	color: #fff;
+	text-decoration: none;
+}
+
+#infinite-footer {
+	background: #1f1f1f;
+	clear: both;
+	color: #fff;
+	font-family: "Raleway", sans-serif;
+	font-size: 0.72222222em;
+	letter-spacing: 0.1em;
+	line-height: 1.38461538;
+	padding: 1.61538462em;
+	text-align: center;
+	text-transform: uppercase;
+	width: 100%;
+	z-index: 10;
+}
+
+#infinite-footer a {
+	color: #fff;
+	text-decoration: none;
+}
+
+#infinite-footer a:hover {
+	text-decoration: underline;
+}
+
+#infinite-footer .container {
+	background-color: transparent;
+	border-width: 0;
+	margin: 0 auto;
+	max-width: 87.69230769em;
+	padding: 0;
+	width: auto;
+}
+
+#infinite-footer .container,
+#infinite-footer .blog-info,
+#infinite-footer .blog-credits {
+	color: #fff;
+	line-height: 1.38461538;
+}
+
+#infinite-footer .container a,
+#infinite-footer .blog-info a,
+#infinite-footer .blog-credits a {
+	color: #fff;
+}
+
+#infinite-footer .infinity-blog-title {
+	font-weight: 400;
+}
+
+.infinite-loader {
+	margin: 0 auto;
+}
+
+.infinite-loader .spinner {
+	display: none;
+}
+
+
+/**
+ * Jetpack Widgets
+ * -----------------------------------------------------------------------------
+ */
+
+
+/* About Me
+------------------------------------------------------------------------------*/
+
+.aboutme_widget #am_thumbnail img {
+	border: none;
+	max-width: 100%;
+}
+
+.aboutme_widget #am_name {
+	letter-spacing: 0.1em;
+	margin: 0;
+}
+
+.aboutme_widget #am_name a {
+	color: rgba(0, 0, 0, 0.88);
+	font-size: 0.88888889em;
+}
+
+.aboutme_widget #am_headline {
+	font-size: 0.88888889em;
+	font-weight: 600;
+	line-height: 1.77777778;
+	margin: 0 0 0.5em;
+}
+
+
+/* Instagram
+------------------------------------------------------------------------------*/
+
+.wpcom-instagram-columns-1 img {
+	margin: 0;
+	max-width: 100%;
+}
+
+
+/* Milestone
+------------------------------------------------------------------------------*/
+
+.widget-area .milestone-widget {
+	margin-bottom: 3.125em;
+}
+
+.widget-area .milestone-content {
+	margin: 0;
+	max-width: 100%;
+}
+
+.widget-area .milestone-header {
+	background-color: #1f1f1f;
+}
+
+.widget-area .milestone-header .event {
+	font-family: "Raleway", sans-serif;
+	font-weight: 600;
+	letter-spacing: 0.025em;
+}
+
+.widget-area .milestone-message {
+	padding: 1em;
+}
+
+.widget-area .milestone-countdown .difference {
+	color: #1f1f1f;
+	font-family: "Raleway", sans-serif;
+}
