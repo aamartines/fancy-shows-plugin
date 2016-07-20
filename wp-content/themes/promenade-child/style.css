@@ -1,0 +1,20 @@
+/*
+Theme Name:   Promenade Child Theme
+Theme URL:    https://github.com/aamartines/promenade-custom
+Description:  A Promenade child theme
+Author:       Alexandra Martines & Megan Valcour
+Author URI:   http://www.alexandramartines.com
+Template:     promenade
+Version:      1.0.0
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:  promenade-child
+*/
+
+/*
+To retain and build on top of the original styles from the parent theme, bring in the parent theme styles using ONE of these two methods:
+- @import rule in the stylesheet (as seen below)
+- enqueue style in child theme functions.php file (see https://gist.github.com/mor10/f2ec3d344331b0789942636248a7ef53)
+*/
+
+@import url("../promenade/style.css");
