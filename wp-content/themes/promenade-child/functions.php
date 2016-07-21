@@ -19,7 +19,7 @@ acf_add_local_field_group(array (
 				'id' => '',
 			),
 			'display_format' => 'm/d/Y',
-			'return_format' => 'd/m',
+			'return_format' => 'm/d',
 			'first_day' => 0,
 		),
 		array (
